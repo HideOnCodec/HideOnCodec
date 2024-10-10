@@ -1,8 +1,4 @@
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/0345f1ba-e8e9-47ab-a68d-3b9b13b10a4c" />
-</div>
-
-<div align="center">
   
   [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHideOnCodec&count_bg=%23F3CFDD&title_bg=%23FD9A9A&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://github.com/HideOnCodec)
 </div>
@@ -12,6 +8,14 @@
   Email : qlrqod3356@gmail.com <br/>
   Blog : <a href="https://velog.io/@tlsdmsgp33/posts">Blog link</a><br/>
   PortFolio : <a href="https://sulfuric-taxicab-2b7.notion.site/163d7d0de7cb449094256fa1ef86558e?pvs=74">Notion link</a> 
+</div>
+<h3 align="center"> 🌟 Project </h3>
+<div align="center">
+1. 크루잉 : 연합동아리 리크루팅 지원 및 후기 아카이빙 iOS 앱 (백엔드 담당)
+2. 청년톡톡 : 청년정책 정보 제공 및 후기 공유 안드로이드 & iOS 앱 서비스 (백엔드 담당)
+3. myADD : OTT 시청 기록 아카이빙 iOS 앱 (백엔드 담당)
+4. 해축GG : 해외축구 커뮤니티 웹 서비스 (백엔드 담당)
+5. 트레블러 : 여행 계획 스케줄링 웹 커뮤니티 (리액트 담당)
 </div>
 <br/> 
 <h3 align="center"> 🌟 Language </h3>
