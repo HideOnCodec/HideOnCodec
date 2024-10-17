@@ -3,9 +3,9 @@
   [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHideOnCodec&count_bg=%23F3CFDD&title_bg=%23FD9A9A&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://github.com/HideOnCodec)
 </div>
   
-<h4 align="center"> ✋안녕하세요! 백엔드 주니어 개발자 엘모입니다. </h4>
-<h3 align="center"> 🌟 Project </h3>
-<div align="center">
+<h4 > ✋안녕하세요! 백엔드 주니어 개발자 엘모입니다. </h4>
+<h3 > 🌟 Project </h3>
+<div >
 1. 크루잉 : 연합동아리 리크루팅 지원 및 후기 아카이빙 iOS 앱 (백엔드 담당)<br/>
 2. 청년톡톡 : 청년정책 정보 제공 및 후기 공유 안드로이드 & iOS 앱 서비스 (백엔드 담당)<br/>
 3. myADD : OTT 시청 기록 아카이빙 iOS 앱 (백엔드 담당)<br/>
@@ -13,14 +13,14 @@
 5. 트레블러 : 여행 계획 스케줄링 웹 커뮤니티 (리액트 담당)<br/>
 </div>
 <br/> 
-<h3 align="center"> 🌟 Language </h3>
-<div align="center">
+<h3 > 🌟 Language </h3>
+<div>
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white">&nbsp
   <img src="https://img.shields.io/badge/c-007396?style=for-the-badge&logo=c&logoColor=#A8B9CC">&nbsp
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white">&nbsp
 </div>
-<h3 align="center"> 🌟 BackEnd </h3>
-<div align="center">
+<h3> 🌟 BackEnd </h3>
+<div>
   <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">&nbsp 
   <img src="https://img.shields.io/badge/Spring Security-6DB33F?style=for-the-badge&logo=Spring Security&logoColor=white">&nbsp 
   <img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=for-the-badge&logo=Thymeleaf&logoColor=white"><br/>
@@ -35,8 +35,8 @@
   <img src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white">&nbsp 
   <img src="https://img.shields.io/badge/jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white">&nbsp
 </div>
-<h3 align="center"> 🌟 FrontEnd </h3>
-<div align="center">
+<h3> 🌟 FrontEnd </h3>
+<div>
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white">&nbsp
 </div>
 <h3 align="center"> 🌟 Tools </h3>
