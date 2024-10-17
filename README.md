@@ -4,11 +4,6 @@
 </div>
   
 <h4 align="center"> ✋안녕하세요! 백엔드 주니어 개발자 엘모입니다. </h4>
-<div align="center">
-  Email : qlrqod3356@gmail.com <br/>
-  Blog : <a href="https://velog.io/@tlsdmsgp33/posts">Blog link</a><br/>
-  PortFolio : <a href="https://sulfuric-taxicab-2b7.notion.site/163d7d0de7cb449094256fa1ef86558e?pvs=74">Notion link</a> 
-</div>
 <h3 align="center"> 🌟 Project </h3>
 <div align="center">
 1. 크루잉 : 연합동아리 리크루팅 지원 및 후기 아카이빙 iOS 앱 (백엔드 담당)<br/>
@@ -49,14 +44,6 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white">&nbsp 
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white">&nbsp 
   <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=Slack&logoColor=white">&nbsp
-</div>
-<br/>
-<br/>
-<div align="center">
-  
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HideOnCodec&show_icons=true&theme=transparent) 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HideOnCodec&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
-  
 </div>
 
 
