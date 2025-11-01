@@ -27,6 +27,9 @@
 1. 현대퓨처넷 MSA 풀스택 개발 양성 교육 10기 수료<br/>
 2. UMC IT 연합동아리 4기 (백엔드 담당)<br/>
 </div>
+
+<br/>
+<br/>
 <div>
   <a href="https://github.com/devxb/gitanimals">
     <img
