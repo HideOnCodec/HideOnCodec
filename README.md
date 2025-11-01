@@ -1,14 +1,4 @@
 <h4 > ✋안녕하세요! 백엔드 주니어 개발자 엘모입니다. </h4>
-<div >
-1. 현대퓨처넷 MSA 풀스택 개발 양성 교육 10기 수료<br/>
-  - 트킷템 : AI를 이용한 스마트 여행 플랫폼(최우수상)<br/>
-  - 못골라 : 오프라인 쇼핑 기록 및 투표 플랫폼<br/>
-  - 러너스 하이 : 러너들을 위한 크루 활동 지원 플랫폼<br/>
-2. 크루잉 : 연합동아리 리크루팅 지원 및 후기 아카이빙 iOS 앱 (백엔드 담당)<br/>
-3. 청년톡톡 : 청년정책 정보 제공 및 후기 공유 안드로이드 & iOS 앱 서비스 (백엔드 담당)<br/>
-4. UMC IT 연합동아리 4기 (백엔드 담당)
-</div>
-<br/> 
 <h3 > 🌟 Language </h3>
 <div>
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white">&nbsp
@@ -31,6 +21,11 @@
 <h3> 🌟 FrontEnd </h3>
 <div>
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white">&nbsp
+</div>
+<h3> 🌟 Acitivity </h3>
+<div>
+1. 현대퓨처넷 MSA 풀스택 개발 양성 교육 10기 수료<br/>
+2. UMC IT 연합동아리 4기 (백엔드 담당)<br/>
 </div>
 <div>
   <a href="https://github.com/devxb/gitanimals">
